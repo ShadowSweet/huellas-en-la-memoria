@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/3_luminance.png",
+  "resources": {
+    "originalImage": "3_original.png",
+    "croppedImage": "3_cropped.png",
+    "thumbnailImage": "3_thumbnail.png",
+    "luminanceImage": "3_luminance.png"
+  },
+  "name": "3",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 2,
+    "width": 904,
+    "height": 1205,
+    "isRotated": false,
+    "originalWidth": 908,
+    "originalHeight": 1205
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795509337133,
+  "updated": 1795509337133
+}
