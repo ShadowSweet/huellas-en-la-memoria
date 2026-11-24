@@ -1,7 +1,7 @@
 {
   "entrySpaceId": "fb5c1e86-84c4-40f2-9aab-c3b09ebd528f",
   "inreTimeline": {
-    "duration": 10,
+    "duration": 5,
     "fps": 30,
     "loop": true,
     "autoplay": true,
@@ -109,6 +109,78 @@
             ]
           }
         ]
+      },
+      {
+        "object": "994b1a0e-b729-4446-8126-44685c315a56",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 3.6,
+            "loop": true
+          }
+        ]
+      },
+      {
+        "object": "107e3582-f28b-4269-85aa-9088c5aba5be",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 3.8,
+            "loop": true
+          }
+        ]
+      },
+      {
+        "object": "27973494-5905-44d7-b875-741c446f5115",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 6.2,
+            "loop": true
+          }
+        ]
+      },
+      {
+        "object": "599db503-1ad5-422e-938d-98a49de7aeb3",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 5.4,
+            "loop": true
+          }
+        ]
+      },
+      {
+        "object": "fa16d40f-4ca1-4332-ae92-e4b127a34e07",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 14.6,
+            "loop": true
+          }
+        ]
+      },
+      {
+        "object": "b185607b-2001-4702-aa5b-c3092759ec03",
+        "tracks": [],
+        "segments": [
+          {
+            "clip": "",
+            "start": 0,
+            "duration": 7.9,
+            "loop": true
+          }
+        ]
       }
     ]
   },
@@ -136,6 +208,21 @@
             "esGltf": false,
             "esTextura": true,
             "esVideo": true
+          }
+        },
+        "b0461071-f466-4e88-b3b9-90243738f17e": {
+          "id": "b0461071-f466-4e88-b3b9-90243738f17e",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":3.8,\"loop\":true}]",
+            "velocidad": 1
           }
         }
       },
@@ -183,6 +270,21 @@
     },
     "27973494-5905-44d7-b875-741c446f5115": {
       "components": {
+        "22061861-027f-44c4-b6c9-9e3da7fcfe9c": {
+          "id": "22061861-027f-44c4-b6c9-9e3da7fcfe9c",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":6.2,\"loop\":true}]",
+            "velocidad": 1
+          }
+        },
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
@@ -319,6 +421,21 @@
             "side": "double"
           }
         },
+        "748f4efd-4864-42ca-817b-dbd183bcf80b": {
+          "id": "748f4efd-4864-42ca-817b-dbd183bcf80b",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":5.4,\"loop\":true}]",
+            "velocidad": 1
+          }
+        },
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
@@ -394,7 +511,7 @@
           "parameters": {
             "autoplay": true,
             "bucle": true,
-            "duracion": 10,
+            "duracion": 5,
             "pistas": "[{\"property\":\"position.x\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"position.y\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"position.z\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"rotation.x\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"rotation.y\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"rotation.z\",\"keys\":[{\"time\":0,\"value\":0}]},{\"property\":\"scale.x\",\"keys\":[{\"time\":0,\"value\":1}]},{\"property\":\"scale.y\",\"keys\":[{\"time\":0,\"value\":1}]},{\"property\":\"scale.z\",\"keys\":[{\"time\":0,\"value\":1}]},{\"property\":\"opacity\",\"keys\":[{\"time\":0,\"value\":1}]},{\"property\":\"visible\",\"keys\":[{\"time\":0,\"value\":1}]}]",
             "pivoteX": 0,
             "pivoteY": 0,
@@ -536,6 +653,21 @@
             "esTextura": true,
             "esVideo": true
           }
+        },
+        "cd8ca561-9393-4eb1-bd05-21daa6349988": {
+          "id": "cd8ca561-9393-4eb1-bd05-21daa6349988",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":3.6,\"loop\":true}]",
+            "velocidad": 1
+          }
         }
       },
       "geometry": {
@@ -582,6 +714,21 @@
     },
     "b185607b-2001-4702-aa5b-c3092759ec03": {
       "components": {
+        "348caee9-f6a8-4ac4-bba3-6bbb86a74217": {
+          "id": "348caee9-f6a8-4ac4-bba3-6bbb86a74217",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":7.9,\"loop\":true}]",
+            "velocidad": 1
+          }
+        },
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
@@ -734,6 +881,21 @@
     },
     "fa16d40f-4ca1-4332-ae92-e4b127a34e07": {
       "components": {
+        "0c1cdea8-e089-4650-992c-5a7f79748487": {
+          "id": "0c1cdea8-e089-4650-992c-5a7f79748487",
+          "name": "inre-animacion",
+          "parameters": {
+            "autoplay": true,
+            "bucle": true,
+            "duracion": 5,
+            "pistas": "[]",
+            "pivoteX": 0,
+            "pivoteY": 0,
+            "pivoteZ": 0,
+            "tramos": "[{\"clip\":\"\",\"start\":0,\"duration\":14.6,\"loop\":true}]",
+            "velocidad": 1
+          }
+        },
         "__inre_aparicion__": {
           "id": "__inre_aparicion__",
           "name": "inre-aparicion",
